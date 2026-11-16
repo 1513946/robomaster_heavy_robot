@@ -1,0 +1,14 @@
+.\25_mini_gimbal\crg_filter.o: ..\balance_bsp\crg_filter\crg_filter.c
+.\25_mini_gimbal\crg_filter.o: ..\balance_bsp\crg_filter\crg_filter.h
+.\25_mini_gimbal\crg_filter.o: ../balance_bsp/math_bsp/c_data_typedef.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\25_mini_gimbal\crg_filter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\25_mini_gimbal\crg_filter.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\25_mini_gimbal\crg_filter.o: ../Core/Inc/FreeRTOSConfig.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\25_mini_gimbal\crg_filter.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
