@@ -1,7 +1,7 @@
 #include "joint_motor_lqr.h"
 #include "user_lib.h"
 /**
-  ************************************* Copyright ******************************
+  ************************************* Copyright ******************************11111
   *
   *                 (C) Copyright {2022},ZQJ,China, Ares.
   *                            All Rights Reserved
@@ -12,7 +12,7 @@
   * Version    : v1.0
   * Author     : ZQJ
   * Date       : 2023-02-22
-  * Description: LQR ¿ØÖÆÆ÷
+  * Description: LQR ¿ØÖÆÆ÷      
   *
   ******************************************************************************
  */
